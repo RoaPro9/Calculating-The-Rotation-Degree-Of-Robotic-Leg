@@ -2,6 +2,7 @@
 The Robotic leg position in this case forms a right scalene triangle.
 ### What is a Right Scalene Triangle?
 A right scalene triangle is a triangle in which all three sides are different in length and one angle is equal to 90 degrees. A triangle is a closed figure made up of three lines and three angles. There are different types of triangles based on the side lengths and angles like a right triangle, scalene triangle, equilateral triangle, etc. A right scalene triangle is one such type of triangle that contains the properties of a right triangle and a scalene triangle.
+
 #### Example
 ![right-scalene-triangle-1629970987](https://user-images.githubusercontent.com/70070721/179752637-6eacd065-03b4-4078-bc63-a00557f57c43.png)
 ### The Robotic Leg Rotaton:
